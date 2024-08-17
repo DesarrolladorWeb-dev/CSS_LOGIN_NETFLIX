@@ -1,0 +1,6 @@
+npm install --global gulp-cli --force  
+
+
+SE INSTALO A LA FUERZA
+
+Y LO EJECUTA CON >gulp
